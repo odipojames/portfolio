@@ -1,0 +1,144 @@
+body{
+
+  background-size: cover;
+  background-attachment: fixed;
+}
+.one{
+  padding-top: 400px;
+}
+#one{
+  margin: 0;
+  background-image: url('images/cover.jpeg');
+  opacity: 1.5;
+  font-size: 40em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  height:800px;
+
+  padding: 0;
+  margin: 0;
+}
+#first:hover{
+  text-decoration: none;
+  color: white;
+}
+.navbar{
+  font-family: 'Play', sans-serif;
+}
+.forth{
+  color: black;
+  text-align: center;
+  width: 475px;
+}
+.forth:hover{
+  text-decoration: none;
+  color: black;
+}
+#two{
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+}
+#second{
+  overflow: hidden;
+  background-color: #ffff00;
+}
+#second a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#second a:hover{
+  background-color: coral;
+  color: black;
+}
+.sticky{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+.content{
+  padding: 16px;
+}
+.sticky + .content {
+  padding-top: 60px;
+}
+#three{
+  display: none;
+  font-family: 'Play', sans-serif;
+}
+#third{
+  text-align: center !important;
+}
+#five{
+  display: none;
+  padding-top: 20px;
+
+  width: 400px;
+  height: 400px;
+}
+.five{
+  background-color: #fff;
+}
+.name{
+  font-family: 'Concert One', cursive;
+}
+#con{
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  background-color: #fff;
+}
+#con:hover{
+  transform: rotateY(180deg);
+}
+#front{
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background-color: #fff;
+}
+#back{
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background-color: #fff;
+  transform: rotateY(180deg);
+}
+.img-five{
+  height:300px;
+  width:300px;
+  border-radius: 50%;
+}
+.card{
+  border: hidden;
+}
+.btn{
+  background-color: #00e699;
+
+}
+.winter{
+  background-color: black;
+  color: white;
+}
+.winter:hover{
+  color: white;
+  text-decoration: none;
+}
+.card-footer{
+  background-color: white;
+}
+.summer{
+  background-color: white;
+  color:black;
+}
+.summer:hover{
+  text-decoration: none;
+  color: black;
+}
