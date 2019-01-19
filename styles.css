@@ -8,7 +8,7 @@ body{
 }
 #one{
   margin: 0;
-  background-image: url('images/cover.jpeg');
+  background-image: url('images/cover2.jpg');
   opacity: 1.5;
   font-size: 40em;
   background-repeat: no-repeat;
@@ -43,6 +43,9 @@ body{
 #second{
   overflow: hidden;
   background-color: #ffff00;
+  margin-left: 150px;
+  margin-right: 100px;
+
 }
 #second a{
   display: block;
@@ -51,9 +54,10 @@ body{
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+
 }
 #second a:hover{
-  background-color: coral;
+  background-color: blue;
   color: black;
 }
 .sticky{
@@ -124,7 +128,7 @@ body{
 
 }
 .winter{
-  background-color: black;
+  background-color: blue;
   color: white;
 }
 .winter:hover{
