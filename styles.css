@@ -8,14 +8,14 @@ body{
 }
 #one{
   margin: 0;
-  background-image: url('images/cover2.jpg');
+  background-image: url('images/cover3.jpg');
   opacity: 1.5;
   font-size: 40em;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  color: white;
-  height:800px;
+  color: black;
+  height:600px;
 
   padding: 0;
   margin: 0;
@@ -23,6 +23,7 @@ body{
 #first:hover{
   text-decoration: none;
   color: white;
+
 }
 .navbar{
   font-family: 'Play', sans-serif;
@@ -43,8 +44,8 @@ body{
 #second{
   overflow: hidden;
   background-color: #ffff00;
-  margin-left: 150px;
-  margin-right: 100px;
+  /* margin-left: 150px;
+  margin-right: 100px; */
 
 }
 #second a{
@@ -145,4 +146,13 @@ body{
 .summer:hover{
   text-decoration: none;
   color: black;
+}
+
+.card-deck{
+  margin-bottom: 25px;
+}
+
+#pix{
+  margin-top: -500px;
+  border-radius: 50%;
 }
