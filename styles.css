@@ -155,4 +155,6 @@ body{
 #pix{
   margin-top: -500px;
   border-radius: 50%;
+  height: 300px;
+  width: 300px;
 }
