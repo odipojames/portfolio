@@ -14,7 +14,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  color: black;
+  color: white;
   height:600px;
 
   padding: 0;
@@ -157,4 +157,11 @@ body{
   border-radius: 50%;
   height: 300px;
   width: 300px;
+}
+#jumbo{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#name{
+  margin-top: -300px;
 }
