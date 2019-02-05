@@ -50,7 +50,7 @@ body{
 }
 #second a{
   display: block;
-  color: black;
+  color: blue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -58,8 +58,8 @@ body{
 
 }
 #second a:hover{
-  background-color: blue;
-  color: black;
+  background-color:#E9EBEE;
+  color: blue;
 }
 .sticky{
   position: fixed;
@@ -161,6 +161,7 @@ body{
 #jumbo{
   margin-left: 0px;
   margin-right: 0px;
+  background-color: #5c6bc0;
 }
 #name{
   margin-top: -300px;
