@@ -151,9 +151,8 @@ body{
 .card-deck{
   margin-bottom: 25px;
 }
-
 #pix{
-  margin-top: -500px;
+  margin-bottom: 200px;
   border-radius: 50%;
   height: 300px;
   width: 300px;
