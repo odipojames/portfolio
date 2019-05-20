@@ -29,6 +29,7 @@ $(document).ready(function() {
   $('#C').click(function() {
     $('#two').hide();
     $('#three').hide();
+      $('#footer').hide();
     $('#five').show();
   })
 
