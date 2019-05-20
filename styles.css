@@ -165,3 +165,16 @@ body{
 #name{
   margin-top: -300px;
 }
+
+footer{
+  background-color: #293737;
+  color: white;
+}
+#logos{
+  height: 30px;
+  width: 30px;
+}
+
+ul {
+list-style-type: none;
+}
